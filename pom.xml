@@ -39,11 +39,6 @@
             <artifactId>activemq-broker</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.farukon</groupId>
-            <artifactId>api</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
             <version>4.5</version>
