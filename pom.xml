@@ -54,6 +54,11 @@
             <version>6.8.8</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.farukon</groupId>
+            <artifactId>api-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <properties>
